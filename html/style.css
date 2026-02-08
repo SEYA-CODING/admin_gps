@@ -1,0 +1,13 @@
+body {
+    background: rgba(0,0,0,0.6);
+    font-family: Arial;
+}
+
+#tablet {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    background: #111;
+    color: white;
+    padding: 20px;
+}
